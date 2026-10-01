@@ -27,10 +27,10 @@
 
 ### Let's Connect!
 <p>
-  <a href="mailto:email_kamu@gmail.com">
+  <a href="mailto:kharinnisa146@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/username_ig_kamu">
+  <a href="https://www.instagram.com/khairinnsaaa_?stkn=MXZwNmlid2ZtZmZ3dg==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
