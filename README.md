@@ -1,18 +1,20 @@
-#  Khairin Nisa 
+# Khairin Nisa 
 **Computer Science Student • Backend Developer • Digital Creator**
 
-> *Bridging the gap between robust backend architecture and compelling digital presentation. Dedicated to building efficient web solutions and continuous technical learning.*
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=400&size=15&pause=1500&color=81A1C1&center=false&vCenter=true&width=800&lines=Bridging+the+gap+between+backend+and+visual+design.;Dedicated+to+building+efficient+web+solutions.;Passionate+about+continuous+technical+learning." alt="Typing Animation" />
+</div>
 
 ---
 
-###  Current Focus & Initiatives
+### Current Focus & Initiatives
 - **Software Engineering:** Architecting and developing practical web applications, focusing on reliable management systems for local enterprises using PHP and Laravel.
 - **Academic Development:** Advancing foundational Computer Science knowledge with a rigorous focus on Data Structures, Linear Algebra, and algorithmic problem-solving.
 - **Digital Media & Design:** Crafting visual assets and short-form multimedia content to support product marketing and brand visibility.
 
 ---
 
-### Technical Arsenal
+### ⚙️ Technical Arsenal
 Instead of a wall of icons, here is a structured breakdown of the core technologies I utilize to build and deploy solutions:
 
 | Category | Technologies & Tools |
@@ -33,11 +35,8 @@ Instead of a wall of icons, here is a structured breakdown of the core technolog
 
 ---
 
-### Establish Connection
+###  Establish Connection
 Open for professional collaborations, backend development discussions, or creative project inquiries. Feel free to reach out:
-
-### 📬 Establish Connection
-Whether it's about database architecture, design ideas, or movie recommendations, feel free to ping me:
 
 <a href="kharinnisa146@gmail.com">
   <img src="https://img.shields.io/badge/Email-Drop_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
