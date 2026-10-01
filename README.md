@@ -36,15 +36,6 @@ Instead of a wall of icons, here is a structured breakdown of the core technolog
 ### Establish Connection
 Open for professional collaborations, backend development discussions, or creative project inquiries. Feel free to reach out:
 
-###  System Metrics
-<div align="center">
-  <a href="https://github.com/khairinnsaa4">
-    <img src="https://github-readme-stats.vercel.app/api?username=khairinnsaa4&show_icons=true&theme=nord&hide_border=true&title_color=81A1C1&text_color=D8DEE9&icon_color=8FBCBB&bg_color=2E3440" alt="Khairin's GitHub Metrics" width="80%" />
-  </a>
-</div>
-
----
-
 ### 📬 Establish Connection
 Whether it's about database architecture, design ideas, or movie recommendations, feel free to ping me:
 
