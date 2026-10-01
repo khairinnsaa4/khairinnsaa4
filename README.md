@@ -1,20 +1,19 @@
-# 👩‍💻 Khairin Nisa 
-**Computer Science Student • Backend Enthusiast • Occasional Designer**
+#  Khairin Nisa 
+**Computer Science Student • Backend Developer • Digital Creator**
 
-> *Translating caffeine and logical problems into functional web applications. Passionate about building robust backend systems while keeping an eye on visual presentation.*
-
----
-
-### 📡 Status Report
-- **🛠️ Engineering:** Currently building practical local web solutions, including management systems for laundry and bakery businesses using PHP and Laravel.
-- **📚 Processing:** Deep diving into the complexities of Data Structures and Linear Algebra.
-- **🎨 Crafting:** Directing and designing digital promotional assets and short-form videos (Canva is my secret weapon).
-- **👻 Decompressing:** Recharging from coding sessions by marathon-watching Vietnamese horror movies.
+> *Bridging the gap between robust backend architecture and compelling digital presentation. Dedicated to building efficient web solutions and continuous technical learning.*
 
 ---
 
-### ⚙️ The Arsenal
-Instead of a wall of icons, here is a breakdown of the tools I use to bring ideas to life:
+###  Current Focus & Initiatives
+- **Software Engineering:** Architecting and developing practical web applications, focusing on reliable management systems for local enterprises using PHP and Laravel.
+- **Academic Development:** Advancing foundational Computer Science knowledge with a rigorous focus on Data Structures, Linear Algebra, and algorithmic problem-solving.
+- **Digital Media & Design:** Crafting visual assets and short-form multimedia content to support product marketing and brand visibility.
+
+---
+
+### Technical Arsenal
+Instead of a wall of icons, here is a structured breakdown of the core technologies I utilize to build and deploy solutions:
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -25,7 +24,19 @@ Instead of a wall of icons, here is a breakdown of the tools I use to bring idea
 
 ---
 
-### 📊 System Metrics
+### System Metrics
+<div align="center">
+  <a href="https://github.com/khairinnsaa4">
+    <img src="https://github-readme-stats.vercel.app/api?username=khairinnsaa4&show_icons=true&theme=nord&hide_border=true&title_color=81A1C1&text_color=D8DEE9&icon_color=8FBCBB&bg_color=2E3440" alt="Khairin's GitHub Metrics" width="80%" />
+  </a>
+</div>
+
+---
+
+### Establish Connection
+Open for professional collaborations, backend development discussions, or creative project inquiries. Feel free to reach out:
+
+###  System Metrics
 <div align="center">
   <a href="https://github.com/khairinnsaa4">
     <img src="https://github-readme-stats.vercel.app/api?username=khairinnsaa4&show_icons=true&theme=nord&hide_border=true&title_color=81A1C1&text_color=D8DEE9&icon_color=8FBCBB&bg_color=2E3440" alt="Khairin's GitHub Metrics" width="80%" />
